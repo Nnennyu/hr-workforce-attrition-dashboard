@@ -1,5 +1,5 @@
 # hr-workforce-attrition-dashboard
-<img width="3094" height="438" alt="image" src="Covid_19_TableauDB.png" />
+<img width="3094" height="438" alt="image" src="HR_AttritionDB.png" />
 Excel dashboard analysing HR employee attrition trends and retention insights.
 # HR Workforce Attrition Dashboard
 
